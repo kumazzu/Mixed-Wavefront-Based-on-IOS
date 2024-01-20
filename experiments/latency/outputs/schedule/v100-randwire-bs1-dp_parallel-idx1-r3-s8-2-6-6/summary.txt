@@ -1,0 +1,1 @@
+Model: randwire     | Optimization: IOS-Parallel    | Batchsize: 1   | Optimization cost: 4370 sec | Latency: 5.75 ms   

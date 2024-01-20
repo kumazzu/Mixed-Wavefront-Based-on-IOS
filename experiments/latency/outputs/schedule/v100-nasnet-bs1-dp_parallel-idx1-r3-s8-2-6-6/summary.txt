@@ -1,0 +1,1 @@
+Model: nasnet       | Optimization: IOS-Parallel    | Batchsize: 1   | Optimization cost: 3660 sec | Latency: 16.08 ms  

@@ -1,0 +1,1 @@
+Model: nasnet       | Optimization: Greedy          | Batchsize: 1   | Optimization cost: 0 sec    | Latency: 16.54 ms  

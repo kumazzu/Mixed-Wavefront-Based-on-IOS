@@ -1,0 +1,1 @@
+Model: squeezenet   | Optimization: IOS-Merge       | Batchsize: 1   | Optimization cost: 2 sec    | Latency: 0.73 ms   

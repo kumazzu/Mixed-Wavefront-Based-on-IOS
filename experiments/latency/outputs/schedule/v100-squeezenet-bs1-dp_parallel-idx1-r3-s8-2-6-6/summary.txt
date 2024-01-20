@@ -1,0 +1,1 @@
+Model: squeezenet   | Optimization: IOS-Parallel    | Batchsize: 1   | Optimization cost: 2 sec    | Latency: 0.88 ms   

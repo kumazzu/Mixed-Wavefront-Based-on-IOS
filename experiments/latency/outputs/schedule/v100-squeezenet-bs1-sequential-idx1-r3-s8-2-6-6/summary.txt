@@ -1,0 +1,1 @@
+Model: squeezenet   | Optimization: Sequential      | Batchsize: 1   | Optimization cost: 0 sec    | Latency: 1.11 ms   

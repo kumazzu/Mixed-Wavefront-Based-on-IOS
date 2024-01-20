@@ -1,0 +1,1 @@
+Model: randwire     | Optimization: IOS-Merge       | Batchsize: 1   | Optimization cost: 4 sec    | Latency: 9.06 ms   

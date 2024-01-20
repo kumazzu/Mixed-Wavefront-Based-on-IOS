@@ -1,0 +1,13 @@
+{
+  "ename": "schedule",
+  "index": 1,
+  "device": "v100",
+  "model": "squeezenet",
+  "bs": 1,
+  "opt_type": "sequential",
+  "r": 3,
+  "s": 8,
+  "warmup": 2,
+  "number": 6,
+  "repeat": 6
+}

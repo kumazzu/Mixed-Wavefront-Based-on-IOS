@@ -1,0 +1,1 @@
+Model: nasnet       | Optimization: Sequential      | Batchsize: 1   | Optimization cost: 0 sec    | Latency: 23.37 ms  

@@ -1,0 +1,1 @@
+Model: nasnet       | Optimization: IOS-Merge       | Batchsize: 1   | Optimization cost: 66 sec   | Latency: 24.26 ms  

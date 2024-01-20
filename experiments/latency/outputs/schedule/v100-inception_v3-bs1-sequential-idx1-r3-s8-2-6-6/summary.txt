@@ -1,0 +1,1 @@
+Model: inception_v3 | Optimization: Sequential      | Batchsize: 1   | Optimization cost: 0 sec    | Latency: 6.61 ms   

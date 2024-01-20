@@ -1,0 +1,1 @@
+Model: inception_v3 | Optimization: IOS-Merge       | Batchsize: 1   | Optimization cost: 2 sec    | Latency: 5.27 ms   
